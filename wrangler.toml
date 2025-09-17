@@ -5,7 +5,7 @@ pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
 GITHUB_ID = "Ov23liQSBq0XtIyBeVh3"
-GITHUB_OWNER = "4797673"
+GITHUB_OWNER = "32963360"
 GITHUB_REPO = "kkkdh"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://kkkdh-6s7.pages.dev/api/auth"
